@@ -1,2 +1,0 @@
-# CV-Template
-Code Project
